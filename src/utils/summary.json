@@ -1,0 +1,34 @@
+[
+  {
+    "category": "Fuels",
+    "carbon": "50.0 kg"
+  },
+  {
+    "category": "Owned Vehicles",
+    "carbon": "89.90 kg"
+  },
+  {
+    "category": "Refrigerants",
+    "carbon": "56.98 kg"
+  },
+  {
+    "category": "Business Travel - Land & Sea",
+    "carbon": "89.09 t"
+  },
+  {
+    "category": "Freighting Goods",
+    "carbon": "54.45 kg"
+  },
+  {
+    "category": "Food",
+    "carbon": "34.09 kg"
+  },
+  {
+    "category": "Water",
+    "carbon": "18.04 kg"
+  },
+  {
+    "category": "Flight",
+    "carbon": "34.78 t"
+  }
+]
